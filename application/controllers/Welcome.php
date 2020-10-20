@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
 
 	public function sample_view()
 	{
-
+ echo hello world
 	}
 	
 }
